@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    background: transparent;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+/*article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}*/
+nav ul, li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+input::-ms-input-placeholder { color: lightgray; }
+input::-webkit-input-placeholder { color: lightgray; } 
+input::-moz-placeholder { color: lightgray; }
